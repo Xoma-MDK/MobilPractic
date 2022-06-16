@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MobilPractic</string>
+    <string name="search_cinema">Найти кинотеатры</string>
+    <string name="start">Старт</string>
 </resources>
